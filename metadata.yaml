@@ -1,11 +1,16 @@
 _repo: Acid-Rain-and-Our-Nation-s-Capital-A-Guide-to-Effects-on-Buildings-and-Monuments_57972
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57972-h/images/cover.jpg
 creator:
   author:
     agent_name: McGee, Elaine
     gutenberg_agent_id: '49716'
     url: http://www.gutenberg.org/2009/agents/49716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57972#Acid-Rain-and-Our-Nation-s-Capital-A-Guide-to-Effects-on-Buildings-and-Monuments
 gutenberg_issued: '2018-09-25'
 gutenberg_type: Text
 identifiers:
